@@ -46,5 +46,3 @@ export default {
     mutations,
     getters
   }
-
-  console.log("change from branch feature-2")
